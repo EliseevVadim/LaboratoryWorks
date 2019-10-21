@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Task6\Task6\bin\Debug\Task6.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Task6\Task6\bin\Debug\Task6.exe
+c:\users\user\documents\visual studio 2015\Projects\Task6\Task6\bin\Debug\Task6.pdb
+c:\users\user\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.exe
+c:\users\user\documents\visual studio 2015\Projects\Task6\Task6\obj\Debug\Task6.pdb
